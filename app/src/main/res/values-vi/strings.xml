@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="unknown">&lt;không xác định&gt;</string>
+    <string name="login">Đăng nhập</string>
+    <string name="must_listen_songs">Bài Hát Phải Nghe</string>
+    <string name="popular_single">Đĩa Đơn Phổ Biến</string>
+    <string name="view_all">Xem Tất Cả</string>
+    <string name="recommended_playlist">Danh Sách Phát Đề Xuất</string>
+    <string name="music_videos">Video Âm Nhạc</string>
+    <string name="artists">Nghệ Sĩ</string>
+    <string name="new_album">Album Mới</string>
+    <string name="home">Trang Chủ</string>
+    <string name="my_music">Nhạc Của Tôi</string>
+    <string name="settings">Cài Đặt</string>
+    <string name="music">ÂM NHẠC</string>
+    <string name="music_player">TRÌNH PHÁT NHẠC</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="ok">OK</string>
+    <string name="scan">Quét</string>
+    <string name="scanning">Đang quét</string>
+    <string name="scanning_tip">Vui lòng kiên nhẫn, đang quét bài hát cục bộ</string>
+    <string name="scan_results">Kết Quả Quét</string>
+    <string name="no_content_scanning">Không Có Nội Dung Để Quét</string>
+    <string name="scan_successfully">Đã thêm thành công %s bài hát</string>
+    <string name="play_now">Phát Ngay</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="single">ĐĨA ĐƠN</string>
+    <string name="singer">CA SĨ</string>
+    <string name="album">ALBUM</string>
+    <string name="equalizer">BỘ CHỈNH ÂM</string>
+    <string name="play_all">Phát Tất Cả</string>
+    <string name="add_play_list">Thêm vào Danh Sách Phát</string>
+    <string name="play_next">Phát Tiếp Theo</string>
+    <string name="favorite">Yêu thích</string>
+    <string name="artists_format">Nghệ sĩ: %s</string>
+    <string name="album_format">Album: %s</string>
+    <string name="share">Chia sẻ</string>
+    <string name="create_new_play_list">Tạo Danh Sách Phát Mới</string>
+    <string name="create">Tạo</string>
+    <string name="favorite_songs">Bài Hát Yêu Thích</string>
+    <string name="num_songs">%s Bài hát</string>
+    <string name="enter_new_play_list_name">Nhập tên danh sách phát mới</string>
+    <string name="current_play_list">Danh Sách Phát Hiện Tại</string>
+    <string name="play_shuffle">Phát Ngẫu Nhiên</string>
+    <string name="play_sequentially">Phát Tuần Tự</string>
+    <string name="play_loop">Phát Lặp Lại</string>
+    <string name="privacy_policy">Chính Sách Bảo Mật</string>
+    <string name="share_app">Chia Sẻ Ứng Dụng</string>
+    <string name="version">Phiên bản</string>
+    <string name="apply">Áp dụng</string>
+    <string name="custom">TÙY CHỈNH</string>
+    <string name="classical">CỔ ĐIỂN</string>
+    <string name="flat">PHẲNG</string>
+    <string name="folk">DÂN GIAN</string>
+    <string name="dance">NHẢY</string>
+    <string name="heavy_metal">HEAVY METAL</string>
+    <string name="hip_hop">HIP HOP</string>
+    <string name="jazz">JAZZ</string>
+    <string name="pop">POP</string>
+    <string name="rock">ROCK</string>
+    <string name="recently_played">Đã Phát Gần Đây</string>
+
+
+
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+
+    <entry>
+        <key>tb_user_p</key>
+        <value>false</value>
+    </entry>
+
+    <entry>
+        <key>tb_user_v</key>
+        <value>true</value>
+    </entry>
+
+    <entry>
+        <key>tb_fb_threshold</key>
+        <value>-1.0</value>
+    </entry>
+
+    <entry>
+        <key>tb_cfg_v_hour</key>
+        <value>48</value>
+    </entry>
+
+    <entry>
+        <key>tb_is_upload_clock</key>
+        <value>false</value>
+    </entry>
+
+    <entry>
+        <key>tb_fb_boundary</key>
+        <value>0.0</value>
+    </entry>
+
+    <entry>
+        <key>tb_is_full_screen_native_countdown</key>
+        <value>true</value>
+    </entry>
+
+    <entry>
+        <key>tb_full_screen_native_countdown_time</key>
+        <value>5</value>
+    </entry>
+
+
+
+</defaultsMap>

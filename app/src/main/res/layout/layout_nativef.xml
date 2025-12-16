@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.gms.ads.nativead.NativeAdView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:id="@+id/full_screen_native_ad">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_horizontal">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_marginTop="20dp"
+                android:layout_gravity="center_horizontal"
+                android:orientation="vertical">
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="48dp"
+                    android:layout_height="48dp"
+                    app:cardBackgroundColor="@android:color/transparent"
+                    app:cardCornerRadius="12dp"
+                    app:cardElevation="0dp">
+
+                    <ImageView
+                        android:id="@+id/icon_image"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        tools:ignore="ContentDescription" />
+
+                </androidx.cardview.widget.CardView>
+
+
+                <TextView
+                    android:id="@+id/title_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="12dp"
+                    android:ellipsize="end"
+                    android:maxLines="1"
+                    android:textColor="#1F1F1F"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    tools:text="Dalaxy Bar"/>
+
+            </LinearLayout>
+
+
+
+            <FrameLayout
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_gravity="end"
+                android:layout_margin="16dp"
+                android:background="@drawable/bg_strok_9f9f9f_r16">
+
+                <TextView
+                    android:id="@+id/show_countdown"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    tools:text="5s"
+                    android:textSize="14sp"
+                    android:textColor="#373737" />
+
+                <ImageView
+                    android:id="@+id/image_close"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:visibility="gone"
+                    android:src="@drawable/img_close_full"/>
+
+            </FrameLayout>
+
+
+        </FrameLayout>
+
+
+
+
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:layout_marginTop="25dp">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:cardBackgroundColor="#D9D9D9"
+                app:cardCornerRadius="4dp"
+                app:cardElevation="0dp">
+
+                <com.google.android.gms.ads.nativead.MediaView
+                    android:id="@+id/media_view"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"/>
+
+
+            </androidx.cardview.widget.CardView>
+
+
+            <ImageView
+                android:layout_width="32dp"
+                android:layout_height="18dp"
+                android:layout_gravity="end|bottom"
+                android:layout_margin="10dp"
+                android:src="@drawable/img_da_logo_full" />
+
+        </FrameLayout>
+
+
+
+
+
+        <TextView
+            android:id="@+id/desc_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="36dp"
+            android:layout_marginTop="24dp"
+            android:layout_marginBottom="95dp"
+            android:ellipsize="end"
+            android:maxLines="4"
+            android:textColor="#2C2C2C"
+            android:textSize="14sp"
+            android:gravity="center"
+            tools:ignore="SmallSp"
+            tools:text="Capture Every charming momentCapture Every charmcharming  momentCapture Every charming moment..."/>
+
+        <TextView
+            android:id="@+id/install_button"
+            android:layout_width="match_parent"
+            android:layout_height="43dp"
+            android:layout_marginHorizontal="16dp"
+            android:layout_marginBottom="48dp"
+            android:background="@drawable/bg_linerar_shadow"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:maxLines="1"
+            android:textColor="@android:color/white"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+
+
+</com.google.android.gms.ads.nativead.NativeAdView>

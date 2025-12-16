@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="unknown">&lt;غير معروف&gt;</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="must_listen_songs">أغاني يجب الاستماع إليها</string>
+    <string name="popular_single">أغنية فردية شائعة</string>
+    <string name="view_all">عرض الكل</string>
+    <string name="recommended_playlist">قائمة تشغيل موصى بها</string>
+    <string name="music_videos">مقاطع موسيقية</string>
+    <string name="artists">الفنانين</string>
+    <string name="new_album">ألبوم جديد</string>
+    <string name="home">الرئيسية</string>
+    <string name="my_music">موسيقاي</string>
+    <string name="settings">الإعدادات</string>
+    <string name="music">موسيقى</string>
+    <string name="music_player">مشغل الموسيقى</string>
+    <string name="language">اللغة</string>
+    <string name="ok">موافق</string>
+    <string name="scan">مسح</string>
+    <string name="scanning">جاري المسح</string>
+    <string name="scanning_tip">يرجى التحلي بالصبر، جاري مسح الأغاني المحلية</string>
+    <string name="scan_results">نتائج المسح</string>
+    <string name="no_content_scanning">لا يوجد محتوى للمسح</string>
+    <string name="scan_successfully">تمت إضافة %s أغنية بنجاح</string>
+    <string name="play_now">تشغيل الآن</string>
+    <string name="search">بحث</string>
+    <string name="single">أغنية فردية</string>
+    <string name="singer">مغني</string>
+    <string name="album">ألبوم</string>
+    <string name="equalizer">المعادل</string>
+    <string name="play_all">تشغيل الكل</string>
+    <string name="add_play_list">إضافة إلى قائمة التشغيل</string>
+    <string name="play_next">تشغيل التالي</string>
+    <string name="favorite">المفضلة</string>
+    <string name="artists_format">الفنانون: %s</string>
+    <string name="album_format">الألبوم: %s</string>
+    <string name="share">مشاركة</string>
+    <string name="create_new_play_list">إنشاء قائمة تشغيل جديدة</string>
+    <string name="create">إنشاء</string>
+    <string name="favorite_songs">الأغاني المفضلة</string>
+    <string name="num_songs">%s أغاني</string>
+    <string name="enter_new_play_list_name">أدخل اسم قائمة التشغيل الجديدة</string>
+    <string name="current_play_list">قائمة التشغيل الحالية</string>
+    <string name="play_shuffle">تشغيل عشوائي</string>
+    <string name="play_sequentially">تشغيل تسلسلي</string>
+    <string name="play_loop">تشغيل متكرر</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="share_app">مشاركة التطبيق</string>
+    <string name="version">الإصدار</string>
+    <string name="apply">تطبيق</string>
+    <string name="custom">مخصص</string>
+    <string name="classical">كلاسيكي</string>
+    <string name="flat">مسطح</string>
+    <string name="folk">فولكلور</string>
+    <string name="dance">رقص</string>
+    <string name="heavy_metal">معدني ثقيل</string>
+    <string name="hip_hop">هيب هوب</string>
+    <string name="jazz">جاز</string>
+    <string name="pop">بوب</string>
+    <string name="rock">روك</string>
+    <string name="recently_played">تم الاستماع مؤخرًا</string>
+
+</resources>

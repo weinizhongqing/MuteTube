@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="unknown">&lt;अज्ञात&gt;</string>
+    <string name="login">लॉग इन</string>
+    <string name="must_listen_songs">अवश्य सुनें गाने</string>
+    <string name="popular_single">लोकप्रिय एकल</string>
+    <string name="view_all">सभी देखें</string>
+    <string name="recommended_playlist">सुझाई गई प्लेलिस्ट</string>
+    <string name="music_videos">संगीत वीडियो</string>
+    <string name="artists">कलाकार</string>
+    <string name="new_album">नया एल्बम</string>
+    <string name="home">होम</string>
+    <string name="my_music">मेरा संगीत</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="music">संगीत</string>
+    <string name="music_player">म्यूजिक प्लेयर</string>
+    <string name="language">भाषा</string>
+    <string name="ok">ठीक</string>
+    <string name="scan">स्कैन करें</string>
+    <string name="scanning">स्कैन हो रहा है</string>
+    <string name="scanning_tip">कृपया धैर्य रखें, स्थानीय गाने स्कैन हो रहे हैं</string>
+    <string name="scan_results">स्कैन परिणाम</string>
+    <string name="no_content_scanning">स्कैन करने के लिए कोई सामग्री नहीं</string>
+    <string name="scan_successfully">%s गाने सफलतापूर्वक जोड़े गए</string>
+    <string name="play_now">अभी चलाएं</string>
+    <string name="search">खोजें</string>
+    <string name="single">एकल</string>
+    <string name="singer">गायक</string>
+    <string name="album">एल्बम</string>
+    <string name="equalizer">इक्वलाइज़र</string>
+    <string name="play_all">सभी चलाएं</string>
+    <string name="add_play_list">प्लेलिस्ट में जोड़ें</string>
+    <string name="play_next">अगला चलाएं</string>
+    <string name="favorite">पसंदीदा</string>
+    <string name="artists_format">कलाकार: %s</string>
+    <string name="album_format">एल्बम: %s</string>
+    <string name="share">साझा करें</string>
+    <string name="create_new_play_list">नई प्लेलिस्ट बनाएं</string>
+    <string name="create">बनाएं</string>
+    <string name="favorite_songs">पसंदीदा गाने</string>
+    <string name="num_songs">%s गाने</string>
+    <string name="enter_new_play_list_name">नई प्लेलिस्ट का नाम दर्ज करें</string>
+    <string name="current_play_list">वर्तमान प्लेलिस्ट</string>
+    <string name="play_shuffle">शफल चलाएं</string>
+    <string name="play_sequentially">क्रमिक रूप से चलाएं</string>
+    <string name="play_loop">लूप में चलाएं</string>
+    <string name="privacy_policy">गोपनीयता नीति</string>
+    <string name="share_app">ऐप साझा करें</string>
+    <string name="version">संस्करण</string>
+    <string name="apply">लागू करें</string>
+    <string name="custom">कस्टम</string>
+    <string name="classical">शास्त्रीय</string>
+    <string name="flat">फ्लैट</string>
+    <string name="folk">लोक</string>
+    <string name="dance">डांस</string>
+    <string name="heavy_metal">हेवी मेटल</string>
+    <string name="hip_hop">हिप हॉप</string>
+    <string name="jazz">जैज</string>
+    <string name="pop">पॉप</string>
+    <string name="rock">रॉक</string>
+    <string name="recently_played">हाल ही में सुने गए</string>
+
+
+
+</resources>

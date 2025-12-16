@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="unknown">&lt;desconocido&gt;</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="must_listen_songs">Canciones Imprescindibles</string>
+    <string name="popular_single">Single Popular</string>
+    <string name="view_all">Ver Todo</string>
+    <string name="recommended_playlist">Lista de Reproducción Recomendada</string>
+    <string name="music_videos">Videoclips</string>
+    <string name="artists">Artistas</string>
+    <string name="new_album">Nuevo Álbum</string>
+    <string name="home">Inicio</string>
+    <string name="my_music">Mi Música</string>
+    <string name="settings">Ajustes</string>
+    <string name="music">MÚSICA</string>
+    <string name="music_player">REPRODUCTOR DE MÚSICA</string>
+    <string name="language">Idioma</string>
+    <string name="ok">OK</string>
+    <string name="scan">Escanear</string>
+    <string name="scanning">Escaneando</string>
+    <string name="scanning_tip">Por favor, sea paciente. Escaneando canciones locales</string>
+    <string name="scan_results">Resultados del Escaneo</string>
+    <string name="no_content_scanning">Sin Contenido Escaneado</string>
+    <string name="scan_successfully">%s canciones añadidas exitosamente</string>
+    <string name="play_now">Reproducir Ahora</string>
+    <string name="search">Buscar</string>
+    <string name="single">SINGLE</string>
+    <string name="singer">CANTANTE</string>
+    <string name="album">ÁLBUM</string>
+    <string name="equalizer">ECUALIZADOR</string>
+    <string name="play_all">Reproducir Todo</string>
+    <string name="add_play_list">Añadir a Lista</string>
+    <string name="play_next">Reproducir Siguiente</string>
+    <string name="favorite">Favorito</string>
+    <string name="artists_format">Artistas: %s</string>
+    <string name="album_format">Álbum: %s</string>
+    <string name="share">Compartir</string>
+    <string name="create_new_play_list">Crear Nueva Lista de Reproducción</string>
+    <string name="create">Crear</string>
+    <string name="favorite_songs">Canciones Favoritas</string>
+    <string name="num_songs">%s Canciones</string>
+    <string name="enter_new_play_list_name">Ingrese el nombre de la nueva lista</string>
+    <string name="current_play_list">Lista de Reproducción Actual</string>
+    <string name="play_shuffle">Reproducción Aleatoria</string>
+    <string name="play_sequentially">Reproducción Secuencial</string>
+    <string name="play_loop">Reproducción en Bucle</string>
+    <string name="privacy_policy">Política de Privacidad</string>
+    <string name="share_app">Compartir App</string>
+    <string name="version">Versión</string>
+    <string name="apply">Aplicar</string>
+    <string name="custom">PERSONALIZADO</string>
+    <string name="classical">CLÁSICA</string>
+    <string name="flat">PLANO</string>
+    <string name="folk">FOLK</string>
+    <string name="dance">DANCE</string>
+    <string name="heavy_metal">HEAVY METAL</string>
+    <string name="hip_hop">HIP HOP</string>
+    <string name="jazz">JAZZ</string>
+    <string name="pop">POP</string>
+    <string name="rock">ROCK</string>
+    <string name="recently_played">Escuchado Recientemente</string>
+
+
+
+</resources>

@@ -1,0 +1,83 @@
+{
+  "tb_config": [
+    {
+      "tb_key": "tb_start",
+      "tb_type": "open",
+      "tb_enable": 0
+    },
+    {
+      "tb_key": "tb_language_i",
+      "tb_type": "inter",
+      "tb_enable": 2
+    },
+    {
+      "tb_key": "tb_click_i",
+      "tb_type": "inter",
+      "tb_enable": 2
+    },
+    {
+      "tb_key": "tb_back_i",
+      "tb_type": "inter",
+      "tb_enable": 2
+    },
+    {
+      "tb_key": "tb_scan_i",
+      "tb_type": "inter",
+      "tb_enable": 0
+    },
+    {
+      "tb_key": "tb_scan_click_i",
+      "tb_type": "inter",
+      "tb_enable": 2
+    },
+    {
+      "tb_key": "tb_language_n",
+      "tb_type": "native",
+      "tb_enable": 0
+    },
+    {
+      "tb_key": "tb_scan_n",
+      "tb_type": "native",
+      "tb_enable": 2
+    },
+    {
+      "tb_key": "tb_func_n",
+      "tb_type": "native",
+      "tb_enable": 0
+    }
+  ],
+  "tb_ads_native": [
+    [
+      "native",
+      "ca-app-pub-3940256099942544/2247696110"
+    ]
+  ],
+  "tb_ads_inter": [
+    [
+      "inter",
+      "ca-app-pub-3940256099942544/1033173712"
+    ],
+    [
+      "native",
+      "ca-app-pub-3940256099942544/2247696110"
+    ]
+  ],
+  "tb_ads_open": [
+    [
+      "inter",
+      "ca-app-pub-3940256099942544/1033173712"
+    ],
+    [
+      "open",
+      "ca-app-pub-3940256099942544/9257395921"
+    ],[
+      "native",
+      "ca-app-pub-3940256099942544/2247696110"
+    ]
+  ],
+  "tb_a_count": {
+    "native": 1,
+    "inter": 1,
+    "open": 1
+  }
+}
