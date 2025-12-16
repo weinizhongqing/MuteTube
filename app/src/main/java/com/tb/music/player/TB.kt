@@ -8,6 +8,7 @@ import androidx.lifecycle.LifecycleOwner
 import androidx.lifecycle.ProcessLifecycleOwner
 import coil.Coil
 import coil.ImageLoader
+import com.google.firebase.Firebase
 import com.tb.music.player.config.AppConfig
 import com.tb.music.player.config.ConfigManager
 import com.tb.music.player.config.MuteRemoteConfig
@@ -31,11 +32,11 @@ class TB  : Application(){
         val scope by lazy(LazyThreadSafetyMode.SYNCHRONIZED) {
             CoroutineScope(Dispatchers.IO + SupervisorJob() + CoroutineExceptionHandler { _, throwable ->
                 throwable.printStackTrace()
-               // Firebase.crashlytics.recordException(throwable)
+                Firebase.crashlytics.recordException(throwable)
             })
         }
 
-        const val solarKey = ""
+        const val solarKey = "988ede2fd99bc117"
 
         val FCM_URL: String
             get() {

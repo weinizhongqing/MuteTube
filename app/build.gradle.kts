@@ -22,18 +22,32 @@ android {
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.tb.music.player"
+        applicationId = "com.music.mute.feel.soulsound.tube"
         minSdk = 26
         targetSdk = 36
         versionCode = 1
-        versionName = "1.0"
+        versionName = "1.0.1"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
+        setProperty("archivesBaseName", "${rootProject.name}-v${versionName}-${versionCode}")
     }
+
+    signingConfigs {
+        create("release") {
+            storeFile = file("../mute_tube_release.jks")
+            storePassword = "thirtyfour8023@.."
+            keyAlias = "thirtyfour"
+            keyPassword = "thirtyfour8023@.."
+        }
+    }
+
 
     buildTypes {
         release {
-            isMinifyEnabled = false
+            signingConfig = signingConfigs.getByName("release")
+            isMinifyEnabled = true
+            isShrinkResources = true
+            isDebuggable = false
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
