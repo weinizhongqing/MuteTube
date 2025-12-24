@@ -25,8 +25,8 @@ android {
         applicationId = "com.music.mute.feel.soulsound.tube"
         minSdk = 26
         targetSdk = 36
-        versionCode = 1
-        versionName = "1.0.1"
+        versionCode = 2
+        versionName = "1.0.2"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         setProperty("archivesBaseName", "${rootProject.name}-v${versionName}-${versionCode}")
@@ -128,7 +128,7 @@ dependencies {
     implementation("com.mikepenz:aboutlibraries-compose-m3:12.2.4")
     implementation("org.brotli:dec:0.1.2")
 
-    implementation("com.github.TeamNewPipe:NewPipeExtractor:4368f2b9bb7ee5b0340a0bc25375e44fe23ab105")
+    implementation("com.github.teamnewpipe:NewPipeExtractor:0.24.8")
 
     //mmkv
     implementation("com.tencent:mmkv:1.3.14")
